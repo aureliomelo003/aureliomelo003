@@ -1,7 +1,7 @@
 Hi there 👋 I'm Aurélio Melo
 
 - 🔭 Looking for a job
-- 🌱 Currently studying web full stack at le wagon
+- 🌱 Currently studying web full stack at Le Wagon
 - 📫 How to reach me: aureliomelo003@gmail.com
 
   ##
