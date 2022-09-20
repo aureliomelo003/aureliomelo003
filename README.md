@@ -1,7 +1,7 @@
 Hi there 👋 I'm Aurélio Melo
 
 - 🔭 Looking for a job
-- 🌱 Currently studying web full stack at Le Wagon
+- 🌱 Front-end web developer
 - 📫 How to reach me: aureliomelo003@gmail.com
 
   ##
@@ -22,7 +22,4 @@ Hi there 👋 I'm Aurélio Melo
 <div> 
  <a href="https://instagram.com/aureliomel0_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/aurelio-melo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
- 
-  ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
- 
 </div>
