@@ -8,6 +8,8 @@ Hi there 👋 I'm Aurélio Melo
 
   ##
   
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=dyrits&label=Profile%20views&color=0e75b6&style=flat" alt="dyrits" /></p>
+  
 <div align="center">
   <a href="https://github.com/aureliomelo003">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=aureliomelo003&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
