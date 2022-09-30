@@ -1,7 +1,7 @@
 Hi there 👋 I'm Aurélio Melo
 
 - 🔭 Looking for a job
-- 🌱 Front-end web developer
+- 🌱 Full-Stack Developer
 - 📫 How to reach me: aureliomelo003@gmail.com
 - 👨‍💻 Connect with me on my Linkedin @aurelio-melo
 - 💻 All of my projects are available at troopl.com/aureliomelo003
