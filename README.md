@@ -4,7 +4,7 @@ Hi there 👋 I'm Aurélio Melo
 - 🌱 Full-Stack Developer
 - 📫 How to reach me: aureliomelo003@gmail.com
 - 👨‍💻 Connect with me on my Linkedin @aurelio-melo
-- 💻 All of my projects are available at my personal website:mellifluous-meringue-882e08.netlify.app
+- 💻 All of my projects are available at my personal website: mellifluous-meringue-882e08.netlify.app
 
   ##
   
